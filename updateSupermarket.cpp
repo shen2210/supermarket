@@ -24,7 +24,6 @@ struct THONG_TIN_SP {
 	
 	void xuatInfSP(){
 		cout<<setw(2)<<++dem<<setw(8)<<id<<setw(20)<<tenSP<<setw(20)<<soluong<<setw(20)<<giatien<<setw(20)<<nsx<<endl;
-//		cout<<setw(8)<<id<<setw(20)<<tenSP<<setw(20)<<soluong<<setw(20)<<giatien<<setw(20)<<nsx<<endl;
 	}
 };
 
